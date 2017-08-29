@@ -10,7 +10,7 @@ class Config():
 				{
 					'key'    : 'rom_base_url',
 					'type'   : 'url',
-					'value'  : 'http://45.76.213.9/rom/',
+					'value'  : 'http://yushiomote.org/rom/',
 					'title'  : 'URL Base',
 				},
 				{
